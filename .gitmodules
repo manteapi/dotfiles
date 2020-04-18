@@ -1,3 +1,6 @@
 [submodule "starship"]
 	path = starship
 	url = https://github.com/manteapi/starship
+[submodule "vim"]
+	path = vim
+	url = https://github.com/manteapi/vim
