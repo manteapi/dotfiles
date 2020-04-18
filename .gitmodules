@@ -7,3 +7,6 @@
 [submodule "bashrc"]
 	path = bashrc
 	url = https://github.com/manteapi/bashrc
+[submodule "git"]
+	path = git
+	url = git@github.com:manteapi/git.git
