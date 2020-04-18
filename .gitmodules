@@ -4,3 +4,6 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/manteapi/vim
+[submodule "bashrc"]
+	path = bashrc
+	url = https://github.com/manteapi/bashrc
