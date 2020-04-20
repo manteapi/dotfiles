@@ -10,3 +10,6 @@
 [submodule "git"]
 	path = git
 	url = git@github.com:manteapi/git.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:manteapi/tmux.git
