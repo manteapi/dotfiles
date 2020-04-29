@@ -13,3 +13,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:manteapi/tmux.git
+[submodule "i3"]
+	path = i3
+	url = git@github.com:manteapi/i3.git
