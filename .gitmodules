@@ -20,3 +20,6 @@
 	path = nvim
 	url = git@github.com:manteapi/nvim.git
     branch = main
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:manteapi/alacritty.git
