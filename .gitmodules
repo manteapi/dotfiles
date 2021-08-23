@@ -26,3 +26,6 @@
 [submodule "nu"]
 	path = nu
 	url = git@github.com:manteapi/nu.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:manteapi/zsh.git
