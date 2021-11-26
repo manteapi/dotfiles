@@ -29,3 +29,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:manteapi/zsh.git
+[submodule "justfiles"]
+	path = justfiles
+	url = git@github.com:manteapi/justfiles.git
