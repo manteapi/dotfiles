@@ -19,3 +19,6 @@
 [submodule "vscode"]
 	path = vscode
 	url = git@github.com:manteapi/vscode.git
+[submodule "justfiles"]
+	path = justfiles
+	url = git@github.com:manteapi/justfiles.git
