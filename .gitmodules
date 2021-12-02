@@ -22,3 +22,6 @@
 [submodule "justfiles"]
 	path = justfiles
 	url = git@github.com:manteapi/justfiles.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:manteapi/nvim.git
