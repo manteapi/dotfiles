@@ -1,12 +1,12 @@
 [submodule "starship"]
 	path = starship
-	url = git@github.com:manteapi/starship
+    url = git@github.com:manteapi/starship.git
 [submodule "vim"]
 	path = vim
-	url = git@github.com:manteapi/vim
+    url = git@github.com:manteapi/vim.git
 [submodule "bashrc"]
 	path = bashrc
-	url = git@github.com:manteapi/bashrc
+    url = git@github.com:manteapi/bashrc.git
 [submodule "git"]
 	path = git
 	url = git@github.com:manteapi/git.git
