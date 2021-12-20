@@ -4,9 +4,6 @@
 [submodule "vim"]
 	path = vim
     url = git@github.com:manteapi/vim.git
-[submodule "bashrc"]
-	path = bashrc
-    url = git@github.com:manteapi/bashrc.git
 [submodule "git"]
 	path = git
 	url = git@github.com:manteapi/git.git
@@ -23,12 +20,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:manteapi/alacritty.git
-[submodule "nu"]
-	path = nu
-	url = git@github.com:manteapi/nu.git
-[submodule "zsh"]
-	path = zsh
-	url = git@github.com:manteapi/zsh.git
 [submodule "justfiles"]
 	path = justfiles
 	url = git@github.com:manteapi/justfiles.git
