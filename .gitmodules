@@ -26,3 +26,12 @@
 [submodule "bashrc"]
 	path = bashrc
 	url = git@github.com:manteapi/bashrc.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:manteapi/zsh.git
+[submodule "nu"]
+	path = nu
+	url = git@github.com:manteapi/nu.git
+[submodule "vscode"]
+	path = vscode
+	url = git@github.com:manteapi/vscode.git
