@@ -23,3 +23,6 @@
 [submodule "justfiles"]
 	path = justfiles
 	url = git@github.com:manteapi/justfiles.git
+[submodule "bashrc"]
+	path = bashrc
+	url = git@github.com:manteapi/bashrc.git
