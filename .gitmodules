@@ -35,3 +35,6 @@
 [submodule "vscode"]
 	path = vscode
 	url = git@github.com:manteapi/vscode.git
+[submodule "sddm"]
+	path = sddm
+	url = git@github.com:manteapi/sddm.git
