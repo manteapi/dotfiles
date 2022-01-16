@@ -54,3 +54,6 @@
 	path = dunst
 	url = git@github.com:manteapi/dunst.git
     branch = main
+[submodule "sheldon"]
+	path = sheldon
+	url = git@github.com:manteapi/sheldon.git
