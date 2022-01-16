@@ -1,18 +1,23 @@
 [submodule "starship"]
 	path = starship
     url = git@github.com:manteapi/starship.git
+    branch = main
 [submodule "vim"]
 	path = vim
     url = git@github.com:manteapi/vim.git
+    branch = main
 [submodule "git"]
 	path = git
 	url = git@github.com:manteapi/git.git
+    branch = main
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:manteapi/tmux.git
+    branch = main
 [submodule "i3"]
 	path = i3
 	url = git@github.com:manteapi/i3.git
+    branch = main
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:manteapi/nvim.git
@@ -20,24 +25,32 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:manteapi/alacritty.git
+    branch = main
 [submodule "justfiles"]
 	path = justfiles
 	url = git@github.com:manteapi/justfiles.git
+    branch = main
 [submodule "bashrc"]
 	path = bashrc
 	url = git@github.com:manteapi/bashrc.git
+    branch = main
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:manteapi/zsh.git
+    branch = main
 [submodule "nu"]
 	path = nu
 	url = git@github.com:manteapi/nu.git
+    branch = main
 [submodule "vscode"]
 	path = vscode
 	url = git@github.com:manteapi/vscode.git
+    branch = main
 [submodule "sddm"]
 	path = sddm
 	url = git@github.com:manteapi/sddm.git
+    branch = main
 [submodule "dunst"]
 	path = dunst
 	url = git@github.com:manteapi/dunst.git
+    branch = main
