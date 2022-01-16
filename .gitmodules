@@ -57,3 +57,6 @@
 [submodule "sheldon"]
 	path = sheldon
 	url = git@github.com:manteapi/sheldon.git
+[submodule "ranger"]
+	path = ranger
+	url = git@github.com:manteapi/ranger.git
