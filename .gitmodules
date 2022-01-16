@@ -38,3 +38,6 @@
 [submodule "sddm"]
 	path = sddm
 	url = git@github.com:manteapi/sddm.git
+[submodule "dunst"]
+	path = dunst
+	url = git@github.com:manteapi/dunst.git
