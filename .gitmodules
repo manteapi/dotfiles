@@ -60,3 +60,6 @@
 [submodule "ranger"]
 	path = ranger
 	url = git@github.com:manteapi/ranger.git
+[submodule "neofetch"]
+	path = neofetch
+	url = git@github.com:manteapi/neofetch.git
