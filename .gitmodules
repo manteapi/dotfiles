@@ -63,3 +63,6 @@
 [submodule "neofetch"]
 	path = neofetch
 	url = git@github.com:manteapi/neofetch.git
+[submodule "fonts"]
+	path = fonts
+	url = git@github.com:manteapi/fonts.git
