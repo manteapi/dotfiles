@@ -57,12 +57,16 @@
 [submodule "sheldon"]
 	path = sheldon
 	url = git@github.com:manteapi/sheldon.git
+    branch = main
 [submodule "ranger"]
 	path = ranger
 	url = git@github.com:manteapi/ranger.git
+    branch = main
 [submodule "neofetch"]
 	path = neofetch
 	url = git@github.com:manteapi/neofetch.git
+    branch = main
 [submodule "fonts"]
 	path = fonts
 	url = git@github.com:manteapi/fonts.git
+    branch = main
