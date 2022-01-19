@@ -51,3 +51,7 @@ cd ..
 cd ./justfiles
 sh uninstall.sh
 cd ..
+
+cd ./picom
+sh uninstall.sh
+cd ..

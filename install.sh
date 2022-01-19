@@ -51,3 +51,7 @@ cd ..
 cd ./justfiles
 sh install.sh
 cd ..
+
+cd ./picom
+sh install.sh
+cd ..
