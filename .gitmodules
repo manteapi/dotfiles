@@ -74,4 +74,7 @@
 	path = picom
 	url = git@github.com:manteapi/picom.git
     branch = main
-[submodule "picom"]
+[submodule "sway"]
+	path = sway
+	url = git@github.com:manteapi/sway.git
+    branch = main
