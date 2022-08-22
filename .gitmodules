@@ -81,3 +81,6 @@
 [submodule "wezterm-config"]
 	path = wezterm-config
 	url = git@github.com:manteapi/wezterm-config.git
+[submodule "gammastep-conf"]
+	path = gammastep-conf
+	url = git@github.com:manteapi/gammastep-conf.git
