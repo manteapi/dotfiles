@@ -81,3 +81,6 @@
 [submodule "wezterm-config"]
 	path = wezterm-config
 	url = git@github.com:manteapi/wezterm-config.git
+[submodule "neo-notes"]
+	path = neo-notes
+	url = git@github.com:manteapi/neo-notes.git
