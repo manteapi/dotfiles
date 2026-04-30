@@ -84,3 +84,6 @@
 [submodule "neo-notes"]
 	path = neo-notes
 	url = git@github.com:manteapi/neo-notes.git
+[submodule "llm"]
+	path = llm
+	url = git@github.com:manteapi/llm.git

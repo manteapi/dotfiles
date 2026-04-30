@@ -55,3 +55,7 @@ cd ..
 cd ./picom
 sh uninstall.sh
 cd ..
+
+cd ./llm
+sh uninstall.sh
+cd ..

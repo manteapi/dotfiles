@@ -55,3 +55,7 @@ cd ..
 cd ./picom
 sh install.sh
 cd ..
+
+cd ./llm
+sh install.sh
+cd ..
