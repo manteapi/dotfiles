@@ -59,3 +59,7 @@ cd ..
 cd ./llm
 sh uninstall.sh
 cd ..
+
+cd ./nix
+sh uninstall.sh
+cd ..

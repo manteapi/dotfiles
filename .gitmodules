@@ -87,3 +87,6 @@
 [submodule "llm"]
 	path = llm
 	url = git@github.com:manteapi/llm.git
+[submodule "nix"]
+	path = nix
+	url = git@github.com:manteapi/nix.git

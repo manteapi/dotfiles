@@ -59,3 +59,7 @@ cd ..
 cd ./llm
 sh install.sh
 cd ..
+
+cd ./nix
+sh install.sh
+cd ..
